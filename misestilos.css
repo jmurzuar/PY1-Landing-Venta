@@ -1,0 +1,631 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+
+:root{
+    --color-logo: #8a0dda;
+    
+    }
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+margin: 0;
+padding: 0;
+/* font-family: 'Open Sans', sans-serif; */
+}
+
+.logo-radio{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+
+    
+}
+.logo-radio:hover{
+    opacity: 0.7;    
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.4);
+    transform: translateY(-5%);
+
+}
+.container0{
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 630px;
+    }
+
+
+.container2{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        height: 600px;
+        }
+
+.left{
+    background: url(img/photo-05.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.right{
+    background-color: #111827;
+    display:grid;
+    place-items:center;
+    
+}
+
+.left2{
+    background-color: #111827;
+    display:grid;
+    place-items:center;    
+}
+
+.right2{
+    
+    background-image: url('../../img/photo-03.jpg');
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+
+.right h1 {
+    color:white; 
+    font-size: 2.3rem; 
+    line-height: 2.3rem;
+    font-weight:900; 
+    margin-left: 5%; 
+    margin-right: 5%;
+}
+
+    .right h2 {
+    color:rgb(218, 212, 212); 
+    font-size: 1.1rem; 
+    font-weight:100; 
+    font-stretch:narrower; 
+    word-spacing: 5px; 
+    margin-bottom: 5%;
+    margin-left: 5%; 
+    margin-right: 5%;
+}
+
+.right p {
+    color:rgb(218, 212, 212); 
+    margin-top: 0.75rem; 
+    font-size: 1.125rem; 
+    line-height: 1.75rem; 
+    margin-bottom: 5%; 
+    margin-left: 5%; 
+    margin-right: 5%; 
+}
+
+.right a {
+    background:rgb(238, 235, 235); 
+    color: #111827; 
+    padding: 12px 36px; 
+    border-radius: 5px; 
+    text-decoration: none; 
+    margin-left: 5%; 
+    margin-right: 5%; 
+}
+
+.left2 h1 {
+    color:white; 
+    font-size: 3.0rem; 
+    font-family: Impact, Haettenschweiler, 'Arial Bold', sans-serif; 
+    margin-left: 5%; 
+    margin-right: 5%; 
+    margin-top: 3rem;
+    text-align: left;
+}
+
+.left2 h2 {
+    color:rgb(218, 212, 212);
+    font-size: 1.1rem; 
+    font-weight:100; 
+    font-stretch:narrower; 
+    word-spacing: 5px; 
+    margin-bottom: 5%;
+    margin-left: 5%; 
+    margin-right: 5%; 
+    margin-top: 3rem;
+    text-align: left;
+}
+
+.left2 p {
+    color:rgb(218, 212, 212); 
+    margin-top: 0.75rem; 
+    font-size: 1.2rem; 
+    line-height: 1.2rem; 
+    margin-bottom: 5%; 
+    margin-left: 5%; 
+    margin-right: 5%; 
+    margin-top: 3rem;
+    text-align: left;
+}
+
+.left2 a {
+    font-size: 0.8rem; 
+    background:rgb(12, 7, 7); 
+    color: #fefeff; 
+    padding: 6px 26px; 
+    border-radius: 25px; 
+    text-decoration: none; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+.left2 {
+    width: 100%;
+    text-align: center;
+
+}
+
+.correo input{
+    width: 60%; 
+    height: 40px; 
+    border-radius: 3px; 
+    border: 0;
+}
+
+.correo button {
+    width: 20%; 
+    height: 40px; 
+    font-size: 1rem; 
+    background:rgb(7, 143, 235); 
+    color: #fefeff; 
+    padding: 6px 26px; 
+    border-radius: 3px; 
+    text-decoration: none; 
+    margin-left: 5%; 
+    margin-right: 5%; 
+    border: 0; 
+    text-align: center;
+}
+
+.correo button:hover{
+    background: var(--color-logo);
+}
+
+.right a:hover{
+    background: var(--color-logo);  
+    color: #ffffff;
+}
+
+.nav-link:hover{
+    color: rgb(170, 172, 175) !important; 
+    box-shadow: 2px 2px 2px 2px #111827;
+    transform: translateY(-5%);
+}
+
+.navbar{
+    background-color:  #111827 !important; 
+    
+}
+
+.navbar-toggler {
+    line-height: 1;
+    color: rgb(255, 255, 255) !important;
+        
+}
+
+
+.navbar-toggler:hover {
+    line-height: 0;
+    color: rgb(248, 246, 250) !important;
+    background-color: #45345a;
+    background: #bbbbbb;
+
+}
+
+
+.pb-3{
+    /* padding-bottom: 40px; */
+}
+
+.pb--4{
+    padding-bottom: 10px;
+    margin: 0;
+    
+}
+
+
+.pt-3{
+    /* padding-top: 20px; */
+}
+
+h6{
+    padding: 0;
+}
+
+
+.m-1{
+    /* margin-top: 30px;  */
+}
+
+.txt-center p {
+    padding-bottom: 20px;
+}
+
+.flex{
+    display: flex;
+   
+}
+.flex-box-1{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+
+    /* justify-content: center; */
+    
+}
+
+.flex-box-2{
+    flex: 2;
+    text-align: center;
+    
+}
+
+.bg-gris{
+    background-color: gray;
+} 
+
+.txt-blanco{
+    color: white;
+
+}
+
+.txt-small{
+    font-size: 1.125rem; 
+    line-height: 1.5rem;
+    
+    
+}
+
+.txt-center{
+    text-align: center;
+}
+
+#main-footer ul li {
+    line-height: 2em;
+    
+}
+
+#main-footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+#main-footer a {
+    color: white;
+    text-decoration: none;
+    
+}
+
+#main-footer a:hover {
+    color: #555;
+    transform: translateY(5%);
+    
+}
+
+
+.hr-solid {
+    border-top: 1px solid;
+    border-bottom: none;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.redes-sociales {
+    margin-top: 0px;
+    padding-left: 10px;
+    width: 55px;
+    height: 40px;
+    
+}
+
+.redes-sociales:hover {
+    transform: translateY(5%);
+}
+
+
+
+
+.container-footer{
+    /* text-align: center; */
+}
+
+
+/* css tarjetas */
+
+.card {
+            width: 90%;
+            margin: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+
+        .card-content {
+            padding: 16px;
+        }
+
+        .card-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .comments {
+            margin-top: 20px;
+        }
+
+        .comment {
+            border-top: 1px solid #eee;
+            padding: 10px 0;
+        }
+
+        .comment p {
+            margin: 0;
+        }
+
+        .tarjetas{
+          margin: 50px;
+          margin-top: 10px;
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr;
+          height: 520px;
+        }
+
+        .card:hover{
+            box-shadow: 15px 15px 40px rgba(0,0,0,0.4);
+            transform: translateY(-3%);
+        }
+
+
+
+/* fin css tarjetas*/
+
+.left2 a:hover{
+    background-color: #8a0dda
+}
+
+  /* Estilos de la tarjeta redes sociales*/
+  .tarjeta-rsocial {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 90%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.tarjeta-rsocial img {
+    width: 40px; /* Ajusta el ancho de la imagen según tu preferencia */
+    height: 40px;
+    margin: 0;
+    margin: 5% 0% 5% 5%;
+    border-radius: 150px; /* Bordes redondeados solo en la esquina izquierda */    
+}
+
+
+.contenido-rsocial {
+    padding: 5px;
+    text-align: left;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+.titulo-rsocial {
+    font-size: 7px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+.texto-rsocial {
+    font-size: 10px;
+    color: #555;
+}
+
+.logo-radio2{
+    display: none;
+}
+
+@media (max-width:991px){
+
+    .logo-radio2{
+        display: block;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        width: 100px;
+        height: 30px;
+        border-radius: 10px;
+    }
+
+    .logo-radio2:hover{
+        opacity: 0.7;    
+        box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.4);
+        transform: translateY(-5%);
+    }
+
+
+    .navbar-toggler {
+        color: rgb(255, 255, 255) !important;
+        background-color: var(--color-logo) !important;
+        outline: none !important;
+        box-shadow: none !important;
+    }
+
+    .logo-radio{
+        display: block;
+    }
+
+    .navbar-toggler::before{
+        background-color: #fa0961;
+    }
+
+@media (max-width:768px){
+
+    .logo-radio2{
+        display: block;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        width: 100px;
+        height: 30px;
+        border-radius: 10px;
+    }
+
+    .logo-radio2:hover{
+        opacity: 0.7;    
+        box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.4);
+        transform: translateY(-5%);
+    }
+
+
+    .navbar-toggler {
+        color: rgb(255, 255, 255) !important;
+        background-color: var(--color-logo);
+        outline: none !important;
+        box-shadow: none !important;
+    }
+
+    .logo-radio{
+        display: block;
+    }
+
+    .navbar-toggler::before{
+        background-color: #fa0961;
+    }
+  
+    .container0{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 2fr;
+        height: 700px;
+        margin-top: 0px;
+      
+    }
+
+    .tarjetas{
+        margin: 50px;
+        margin-top: 10px;
+        display: grid;
+        grid-template-columns: 1fr;
+        height: 1600px;
+       
+      }
+
+
+   
+
+  
+    /* inicio css segunda zona */
+
+    .left2 {
+        width: 100%;
+        text-align: center;
+        
+
+    }
+    
+    
+    .correo input{
+        width: 90%;
+        margin-bottom: 10px;
+    }
+    
+    .correo button {
+        width: 90%; 
+
+
+
+    }
+    .container2{
+        grid-template-columns: 1fr;
+        height: 1000px;
+    }
+
+    /* fin css segunda zona */
+
+    .logo-radio{
+        display: none;
+    }
+
+    .right2{
+        height: 280px;
+        width: 100%;
+        background-position:top;
+    }
+
+    .left{
+        background-position:top;
+    }
+
+    .card:hover{
+        box-shadow: 35px 35px 35px 35px rgba(0,0,0,0.4);
+        transform: translateY(0%);
+    }
+
+    #A1{
+        grid-area: n1;
+        text-align: center;
+    }
+
+    #A2{
+        grid-area: n2;
+        padding-left: 20px;
+    }
+
+    #A3{
+        grid-area: n3;
+    }
+
+    #A4{
+        grid-area: n4;
+    }
+
+    #A5{
+        grid-area: n5;
+    }
+
+    .flex{
+        display:grid;
+        grid-template-rows: 2;
+        grid-template-columns: repeat(4,1fr);
+        grid-template-areas: 
+        "n1 n1 n1 n1"
+        "n2 n3 n4 n5"
+        ;
+        row-gap: 2em;
+        
+    }
+
+    footer .txt-center p{
+        font-size: 15px;
+    }
+    
+
+
+}
