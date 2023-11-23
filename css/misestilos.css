@@ -140,12 +140,14 @@ padding: 0;
     color:rgb(218, 212, 212); 
     margin-top: 0.75rem; 
     font-size: 1.2rem; 
-    line-height: 1.2rem; 
+    line-height: 1.5rem; 
     margin-bottom: 5%; 
     margin-left: 5%; 
     margin-right: 5%; 
     margin-top: 3rem;
     text-align: left;
+
+    
 }
 
 .left2 a {
