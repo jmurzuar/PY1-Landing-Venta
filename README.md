@@ -3,13 +3,11 @@
 ## **ÍNDICE**
 
 * [1. Intro](#1-intro)
-* [2. Estructura de la página](#2-estructura)
+* [2. Estructura de la página](#2-Estructura)
 * [3. Pantallas](#3-Pantallas)
-* [4. Objetivos de Aprendizaje](#4-objetivos-de-aprendizaje)
-* [5. Requisitos](#5-requisitos-y-entregables)
-* [6. Criterios de evaluación](#6-criterios-de-evaluaci%C3%B3n)
-* [7. Entregas](#7-entregas)
-
+* [4. Tecnologías Utilizadas](#4-Tecnologías-Utilizadas)
+* [5. Principales Características](#5-Principales-Características)
+  
 ****
 
 ## 1. Intro
@@ -18,7 +16,7 @@ Sitio estático desarrollado en HTML5, CSS y responsive, el ejemplo corresponde 
 
 ****
 
-## 2. estructura
+## 2. Estructura
 
 ![estructura](https://github.com/jmurzuar/PY1-Landing-Venta/assets/84281899/707d98c0-4aa7-4a61-b64e-9351adf1189f)
 
@@ -36,7 +34,7 @@ Sitio estático desarrollado en HTML5, CSS y responsive, el ejemplo corresponde 
 
 ****
 
-## 4. Objetivos de aprendizaje
+## 4. Tecnologías Utilizadas
 
 El objetivo principal de este proyecto es desarrollar una interfaz utilizando HTML y CSS, en toda su aplicación.
 
@@ -48,47 +46,37 @@ Aplicarás:
 
 ****
 
-## 5. Requisitos y entregables
+## 5. Principales Características
 
 Usa esta lista para saber los requisitos mínimos del proyecto:
 
-### GENERAL
+### Título
 
 Realizarse de manera individual
 
-### UI
-- [ ] Desarrollar prototipado simple.
-- [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
+### Sección 1 - contacto
+- [X] Desarrollar prototipado simple.
+- [X] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
 - [ ] Aplicar tipos de selectores en CSS.
 - [ ] Sección `Header`, `Jumbotron`, `footer`
 - [ ] Sección de registro de usuario
 - [ ] Sección artículos o catálogo
 - [ ] Responsive Web Design (Vista en móviles con uso de media queries)
 
-### CONTROL DE VERSIONES
+### Sección 2 - Tarjetas
 - [ ] Crear un repositorio en GitHub y realizar mínimo 5 "commits" en tu repositorio.
 
-### DESPLIEGUE
+### Sección 3 - Promción 
 - [ ] Crear una URL para compartir (puedes utilizar Netlify o GitHub Pages)
 - [ ] Colocar descripción dentro del repositorio
 
-### ENTREGA A TIEMPO
+### Sección 4 - Footer
 - [ ] Entregar a tiempo el proyecto.
 
-## 6. Criterios de evaluación
-
-A partir de los requisitos, tu % estará definido de esta forma:
-
-| ÁREA       | % DEL TOTAL |
-| ------------- |:-------------:|
-| UI      | 70%     |
-| CONTROL DE VERSIONES      | 5%     |
-| DESPLIEGUE | 10%      |
-| ENTREGA A TIEMPO | 15%      |
 
 ****
 
-## 7. Entregas
+## 7. Legal
 
 - **Definición de fechas.** Habla con tus coaches sobre el periodo de entregas del proyecto.
 
