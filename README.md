@@ -3,8 +3,8 @@
 ## **ÍNDICE**
 
 * [1. Intro](#1-intro)
-* [2. Estructura de la página](#2-estructua)
-* [3. ¿Qué construirás?](#3-qu%C3%A9-construir%C3%A1s)
+* [2. Estructura de la página](#2-estructura)
+* [3. Pantallas](#3-Pantallas)
 * [4. Objetivos de Aprendizaje](#4-objetivos-de-aprendizaje)
 * [5. Requisitos](#5-requisitos-y-entregables)
 * [6. Criterios de evaluación](#6-criterios-de-evaluaci%C3%B3n)
@@ -20,33 +20,19 @@ Sitio estático desarrollado en HTML5 y CSS, el ejemplo corresponde a una radio 
 
 ## 2. estructura
 
-![imagen]("./../demo/demo.png)
+![estructura](https://github.com/jmurzuar/PY1-Landing-Venta/assets/84281899/707d98c0-4aa7-4a61-b64e-9351adf1189f)
+
 
 
 ****
 
-## 3. ¿Qué construirás?
+## 3. Pantallas
+![pantalla1](https://github.com/jmurzuar/PY1-Landing-Venta/assets/84281899/c199114b-562b-4b64-b51e-e7a800ed515a)
+![pantalla2](https://github.com/jmurzuar/PY1-Landing-Venta/assets/84281899/a6ac07a8-01a9-4400-821c-b952497b69d1)
+![pantalla3](https://github.com/jmurzuar/PY1-Landing-Venta/assets/84281899/0c945321-9a40-453f-bcdc-4e52fa14602d)
+![pantalla4](https://github.com/jmurzuar/PY1-Landing-Venta/assets/84281899/b26bc1a3-57b8-4f65-8516-8ff50ebf9e90)
 
-Este proyecto está enfocado en construir una página "landing" para un negocio.
 
-Se te pide que sea una sola página que permita establecer:
-
-- Mensajes del negocio (¿qué se vende?)
-- Breve catálogo de productos
-- Vista adaptable a móviles
-- Las secciones siguientes:
-  - **a. Header**
-    Sección que involucra el logo y las áreas principales del sitio.
-  - **b. Jumbotron**
-    Sección de presentación del producto al usuario. Debe de incluir su título, descripción y un elemento para introducir tu correo.
-  - **c. Blog o catálogo**
-    Sección para mostrar los artículos del sitio web. O en su caso, artículos de catálogo de productos
-  - **d. Adicionales**
-    Secciones diversas que puedes agregar para dar mayor valor a tu sitio.
-  - **e. Footer**
-    Sección que incluye todas las áreas del sitio, incluyendo redes sociales.
-
-![imagen]("./../demo/layout.png)
 
 ****
 
