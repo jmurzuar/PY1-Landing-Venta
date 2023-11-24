@@ -1,11 +1,9 @@
-![Banner](./imagenes/banner.png)
-
-# PROYECTO 1: Landing de Negocio
+# PROYECTO 1: Landing de Negocio HTML5-CSS
 
 ## **ÍNDICE**
 
 * [1. Intro](#1-intro)
-* [2. Demo](#2-demo)
+* [2. Estructura de la página](#2-estructua)
 * [3. ¿Qué construirás?](#3-qu%C3%A9-construir%C3%A1s)
 * [4. Objetivos de Aprendizaje](#4-objetivos-de-aprendizaje)
 * [5. Requisitos](#5-requisitos-y-entregables)
@@ -16,25 +14,11 @@
 
 ## 1. Intro
 
-Los sitios web estáticos han crecido en popularidad estos últimos años. 
-
-Existen muchas aplicaciones como [Wix](https://wix.com) o [Squarespace](https://squarespace.com) que han aprovechado este crecimiento debido a la gran necesidad de empresas introduciéndose a Internet para presentar sus productos al mundo.
-
-Sin embargo, hay un segmento que necesita mucha personalización, ya sea porque más adelante incluirá un sistema de registro, un área para clientes, etc. 
-
-Es aquí donde es recomendable construirlo sin usar terceros. 
-
-Comenzamos a trabajar con tu primer proyecto, una página web estática.
+Sitio estático desarrollado en HTML5 y CSS, el ejemplo corresponde a una radio online 
 
 ****
 
-## 2. Demo
-
-Puedes entrar a ver el demo en este vínculo: https://landingpagemarcablanca.netlify.app/
-
-La idea es inspirarte con esta demostración de proyecto. 
-
-**No construirás el mismo**, sin embargo, puedes examinar cómo fue construido para establecer tu estrategia.
+## 2. estructura
 
 ![imagen]("./../demo/demo.png)
 
