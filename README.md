@@ -14,7 +14,7 @@
 
 ## 1. Intro
 
-Sitio estático desarrollado en HTML5 y CSS, el ejemplo corresponde a una radio online 
+Sitio estático desarrollado en HTML5, CSS y responsive, el ejemplo corresponde a una radio online 
 
 ****
 
