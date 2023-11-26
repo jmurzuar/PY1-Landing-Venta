@@ -2,7 +2,7 @@
 
 
 :root{
-    --color-logo: #8a0dda;
+    --color-logo: rgb(139, 13, 217)
     
     }
 
@@ -28,6 +28,7 @@ padding: 0;
 .logo-radio:hover{
     opacity: 0.7;    
     box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.4);
+    
     transform: translateY(-5%);
 
 }
@@ -274,7 +275,7 @@ h6{
 }
 
 .bg-gris{
-    background-color: gray;
+    background-color: rgb(172, 161, 161);
 } 
 
 .txt-blanco{
@@ -312,8 +313,10 @@ h6{
 }
 
 #main-footer a:hover {
-    color: #555;
+    color: var(--color-logo);
     transform: translateY(5%);
+    font-weight: bold;
+    font-size: 20px;
     
 }
 
@@ -335,7 +338,7 @@ h6{
 }
 
 .redes-sociales:hover {
-    transform: translateY(5%);
+    transform: translateY(10%);
 }
 
 
@@ -346,15 +349,18 @@ h6{
 }
 
 
+
 /* css tarjetas */
 
 .card {
             width: 90%;
             margin: 20px;
             background-color: #fff;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+            box-shadow: 0 4px 8px rgba(139,13, 217, 0.3);
             border-radius: 8px;
             overflow: hidden;
+            
         }
 
         .card img {
@@ -395,7 +401,7 @@ h6{
         }
 
         .card:hover{
-            box-shadow: 15px 15px 40px rgba(0,0,0,0.4);
+            box-shadow: 15px 15px 40px rgba(139,13, 217,0.4);
             transform: translateY(-3%);
         }
 
@@ -404,7 +410,9 @@ h6{
 /* fin css tarjetas*/
 
 .left2 a:hover{
-    background-color: #8a0dda
+    background-color: #8a0dda;
+
+    
 }
 
   /* Estilos de la tarjeta redes sociales*/
@@ -487,6 +495,7 @@ h6{
         background-color: #fa0961;
     }
 
+    /* @media only screen and (max-width: 640px){ */
 @media (max-width:768px){
 
     .logo-radio2{
@@ -585,7 +594,7 @@ h6{
     }
 
     .card:hover{
-        box-shadow: 35px 35px 35px 35px rgba(0,0,0,0.4);
+        box-shadow: 20px 20px 20px 20px rgba(139,13, 217,0.4);
         transform: translateY(0%);
     }
 
@@ -627,6 +636,16 @@ h6{
         font-size: 15px;
     }
     
+    .left2 h1 {
+        
+        font-size: 2.0rem; 
+      
+    }
+
+    #main-footer a:hover {
+        font-size: 18px;
+        
+    }
 
 
 }
