@@ -7,6 +7,7 @@
 * [3. Pantallas](#3-Pantallas)
 * [4. Tecnologías Utilizadas](#4-Tecnologías-Utilizadas)
 * [5. Principales Características](#5-Principales-Características)
+* [6. Legal](#6-Legal)
   
 ****
 
@@ -37,6 +38,9 @@ Sitio estático desarrollado en HTML5, CSS y responsive, el ejemplo corresponde 
 
 ## 4. Tecnologías Utilizadas
 
+![losgos_tec](https://github.com/jmurzuar/PY1-Landing-Venta/assets/84281899/f978afc9-5e20-4b70-9c1d-bc493cbcf056)
+
+
 El objetivo principal de este proyecto fue desarrollar una interfaz utilizando HTML y CSS, en toda su aplicación.
 
 Aplicando:
@@ -44,6 +48,8 @@ Aplicando:
 - Prototipado simple (baja findelidad) que muestra el plan de desarrollo. utilizando diseños sensillos, que muestran la página que vas a construir.
 - Etiquetas estándar HTML5.
 - CSS, incluyendo técnicas Flexbox, CSS Grids y Responsive Web Design.
+- Se utiliza Bootstrap
+- Se realiza control de versiones con GIT y GITHUB
 
 [volver al índice](#ÍNDICE)
 ****
@@ -77,7 +83,7 @@ Usa esta lista se encuentran los requisitos mínimos del proyecto fueron:
 [volver al índice](#ÍNDICE)
 ****
 
-## 7. Legal
+## 6. Legal
 
 - Esta página fur creada con fines educativos, NO COMERCIAL, contiene imagenes con derechos de autor que se han utilizado solo para ejemplos
 - Página creada en el marco del Bootcamp desarrollo web full stack, corte 11 de la Universidad de Desarrrollo - Chile
