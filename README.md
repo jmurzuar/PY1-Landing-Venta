@@ -14,7 +14,7 @@
 
 Sitio estático desarrollado en HTML5, CSS y responsive, el ejemplo corresponde a una radio online 
 
-* [Índice](#ÍNDICE)
+[volver al índice](#ÍNDICE)
 ****
 
 ## 2. Estructura
@@ -22,7 +22,7 @@ Sitio estático desarrollado en HTML5, CSS y responsive, el ejemplo corresponde 
 ![estructura](https://github.com/jmurzuar/PY1-Landing-Venta/assets/84281899/707d98c0-4aa7-4a61-b64e-9351adf1189f)
 
 
-
+[volver al índice](#ÍNDICE)
 ****
 
 ## 3. Pantallas
@@ -32,53 +32,55 @@ Sitio estático desarrollado en HTML5, CSS y responsive, el ejemplo corresponde 
 ![pantalla4](https://github.com/jmurzuar/PY1-Landing-Venta/assets/84281899/b26bc1a3-57b8-4f65-8516-8ff50ebf9e90)
 
 
-
+[volver al índice](#ÍNDICE)
 ****
 
 ## 4. Tecnologías Utilizadas
 
-El objetivo principal de este proyecto es desarrollar una interfaz utilizando HTML y CSS, en toda su aplicación.
+El objetivo principal de este proyecto fue desarrollar una interfaz utilizando HTML y CSS, en toda su aplicación.
 
-Aplicarás:
+Aplicando:
 
-- Prototipado simple (baja findelidad) que mostrará tu plan de desarrollo. Puedes utilizar un dibujo a lápiz, que muestre la página que vas a construir.
+- Prototipado simple (baja findelidad) que muestra el plan de desarrollo. utilizando diseños sensillos, que muestran la página que vas a construir.
 - Etiquetas estándar HTML5.
 - CSS, incluyendo técnicas Flexbox, CSS Grids y Responsive Web Design.
 
+[volver al índice](#ÍNDICE)
 ****
 
 ## 5. Principales Características
 
-Usa esta lista para saber los requisitos mínimos del proyecto:
+Usa esta lista se encuentran los requisitos mínimos del proyecto fueron:
 
-### Título
+### HTML - CSS
 
-Realizarse de manera individual
-
-### Sección 1 - contacto
+- [X] Realizado de manera individual
 - [X] Desarrollar prototipado simple.
 - [X] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
-- [ ] Aplicar tipos de selectores en CSS.
-- [ ] Sección `Header`, `Jumbotron`, `footer`
-- [ ] Sección de registro de usuario
-- [ ] Sección artículos o catálogo
-- [ ] Responsive Web Design (Vista en móviles con uso de media queries)
+- [X] Aplicar tipos de selectores en CSS.
+- [X] Sección `Header`, `Jumbotron`, `footer`
+- [X] Sección de registro de usuario
+- [X] Sección artículos o catálogo
+- [X] Responsive Web Design (Vista en móviles con uso de media queries)
 
-### Sección 2 - Tarjetas
-- [ ] Crear un repositorio en GitHub y realizar mínimo 5 "commits" en tu repositorio.
+### GIT y GITHUB
+- [X] Utilizar GIT para en control de versiones.
+- [X] Crear un repositorio en GitHub y realizar mínimo 5 "commits" en tu repositorio.
 
-### Sección 3 - Promción 
-- [ ] Crear una URL para compartir (puedes utilizar Netlify o GitHub Pages)
-- [ ] Colocar descripción dentro del repositorio
+### Publicación y difusión 
+- [X] Crear una URL para compartir (GitHub Pages)
+- [X] Se crea archivo README con la descripción dentro del repositorio
 
-### Sección 4 - Footer
-- [ ] Entregar a tiempo el proyecto.
+### Fecha de entrega
+- [X] Entregado el Lunes 27.11.2023
 
-
+[volver al índice](#ÍNDICE)
 ****
 
 ## 7. Legal
 
-- **Definición de fechas.** Habla con tus coaches sobre el periodo de entregas del proyecto.
-
-- **Cumple con los requisitos y entregables.** Debes verificar que cumplas con todo lo que listamos en esta sección y tomes en cuenta el tiempo establecido para ello, ya que de esto depende que obtengas tu insignia.
+- Esta página fur creada con fines educativos, NO COMERCIAL, contiene imagenes con derechos de autor que se han utilizado solo para ejemplos
+- Página creada en el marco del Bootcamp desarrollo web full stack, corte 11 de la Universidad de Desarrrollo - Chile
+- Creado en Noviembre 2023
+  
+[volver al índice](#ÍNDICE)
