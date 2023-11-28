@@ -212,7 +212,7 @@ padding: 0;
 
 .navbar-toggler {
     line-height: 1;
-    color: rgb(255, 255, 255) !important;
+    color: rgb(247, 5, 5) !important;
         
 }
 
@@ -220,7 +220,7 @@ padding: 0;
 .navbar-toggler:hover {
     line-height: 0;
     color: rgb(248, 246, 250) !important;
-    background-color: #45345a;
+    background-color: --color-logo;
     background: #bbbbbb;
 
 }
@@ -339,6 +339,7 @@ h6{
 
 .redes-sociales:hover {
     transform: translateY(10%);
+    transition: 0.5s;
 }
 
 
@@ -360,6 +361,7 @@ h6{
             box-shadow: 0 4px 8px rgba(139,13, 217, 0.3);
             border-radius: 8px;
             overflow: hidden;
+            cursor: pointer;
             
         }
 
@@ -403,6 +405,7 @@ h6{
         .card:hover{
             box-shadow: 15px 15px 40px rgba(139,13, 217,0.4);
             transform: translateY(-3%);
+            transition: 0.5s;
         }
 
 
@@ -461,41 +464,22 @@ h6{
     display: none;
 }
 
-@media (max-width:991px){
+.navbar-toggler {
+    color: rgb(255, 255, 255) !important;
+    background-color: var(--color-logo);
+    outline: none !important;
+    box-shadow: none !important;
+}
 
-    .logo-radio2{
-        display: block;
-        position: absolute;
-        top: 20px;
-        right: 20px;
-        width: 100px;
-        height: 30px;
-        border-radius: 10px;
-    }
+.navbar-toggler::before{
+    background-color: #fa0961;
+}
 
-    .logo-radio2:hover{
-        opacity: 0.7;    
-        box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.4);
-        transform: translateY(-5%);
-    }
+.navbar-toggler:hover{
+    background-color: #ece2e5;
+}
 
 
-    .navbar-toggler {
-        color: rgb(255, 255, 255) !important;
-        background-color: var(--color-logo) !important;
-        outline: none !important;
-        box-shadow: none !important;
-    }
-
-    .logo-radio{
-        display: block;
-    }
-
-    .navbar-toggler::before{
-        background-color: #fa0961;
-    }
-
-    /* @media only screen and (max-width: 640px){ */
 @media (max-width:768px){
 
     .logo-radio2{
@@ -514,22 +498,10 @@ h6{
         transform: translateY(-5%);
     }
 
-
-    .navbar-toggler {
-        color: rgb(255, 255, 255) !important;
-        background-color: var(--color-logo);
-        outline: none !important;
-        box-shadow: none !important;
-    }
-
     .logo-radio{
         display: block;
     }
-
-    .navbar-toggler::before{
-        background-color: #fa0961;
-    }
-  
+ 
     .container0{
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 2fr;
@@ -556,8 +528,6 @@ h6{
     .left2 {
         width: 100%;
         text-align: center;
-        
-
     }
     
     
@@ -643,7 +613,13 @@ h6{
     }
 
     #main-footer a:hover {
-        font-size: 18px;
+        font-size: 15px;
+        font-weight:normal;
+        
+    }
+
+    #main-footer a {
+        font-size: 15px;
         
     }
 
