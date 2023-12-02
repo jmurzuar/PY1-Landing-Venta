@@ -95,7 +95,7 @@ Usa esta lista se encuentran los requisitos mínimos del proyecto fueron:
 
 ## 7. Despliegue
 
-Link al proyecto publicado en netlify.com [PY Landing Venta](https://py1-landing-venta-juan-urzua.netlify.app){:target="_blank" rel="noopener"}
+Link al proyecto publicado en netlify.com [PY Landing Venta](https://py1-landing-venta-juan-urzua.netlify.app)
 
 [volver al índice](#ÍNDICE)
 
