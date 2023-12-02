@@ -90,3 +90,11 @@ Usa esta lista se encuentran los requisitos mínimos del proyecto fueron:
 - Creado en Noviembre 2023
   
 [volver al índice](#ÍNDICE)
+****
+
+## 7. Despliegue
+
+Link al proyecto publicado en netlify.com ![https://py1-landing-venta-juan-urzua.netlify.app/](https://py1-landing-venta-juan-urzua.netlify.app/)
+  
+[volver al índice](#ÍNDICE)
+
