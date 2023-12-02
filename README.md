@@ -8,6 +8,7 @@
 * [4. Tecnologías Utilizadas](#4-Tecnologías-Utilizadas)
 * [5. Principales Características](#5-Principales-Características)
 * [6. Legal](#6-Legal)
+* [7. Despliegue](#7-Despliegue)
   
 ****
 
